@@ -32,3 +32,8 @@
 ![alt text](https://github.com/Eliesmbr/val-crosshair/blob/main/pictures/7.PNG?raw=true)
 ## Code:
 0;P;h;0;0l;5;0o;0;0a;1;0f;0;1b;0
+
+## Der Lutz
+![alt text](https://github.com/Eliesmbr/val-crosshair/blob/main/pictures/8.PNG?raw=true)
+## Code:
+0;P;c;4;t;2;o;0.34;d;1
