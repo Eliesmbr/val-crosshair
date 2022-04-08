@@ -1,4 +1,5 @@
 # Collection of Valorant crosshairs
+You will find all crosshairs in collection
 
 # Some example
 
